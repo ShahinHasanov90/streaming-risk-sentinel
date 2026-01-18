@@ -30,3 +30,4 @@
 - Fixed Unicode handling for AZ/RU text (2026-01-12)
 - Updated API response format (2026-01-15)
 - Added rate limiting (2026-01-18)
+- Fixed concurrent access issue (2026-01-18)
