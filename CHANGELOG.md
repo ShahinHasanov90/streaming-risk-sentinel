@@ -40,3 +40,4 @@
 - Added support for new data format (2026-02-02)
 - Optimized batch processing performance (2026-02-03)
 - Fixed memory leak in processor (2026-02-03)
+- Added new configuration options (2026-02-07)
